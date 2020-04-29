@@ -1,4 +1,4 @@
-# SD1
+# System Design 1
 
 
 **Designing a URL Shortening service**
